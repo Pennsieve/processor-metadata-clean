@@ -1,0 +1,7 @@
+.idea
+.dockerignore
+.git
+.gitignore
+Dockerfile
+Jenkinsfile
+README.md
