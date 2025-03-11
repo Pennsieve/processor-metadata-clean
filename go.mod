@@ -2,6 +2,8 @@ module github.com/pennsieve/processor-metadata-clean
 
 go 1.22
 
+toolchain go1.23.4
+
 require (
 	github.com/google/uuid v1.6.0
 	github.com/pennsieve/processor-post-metadata/client v0.0.2-0.20250305215442-3e6a74481c69
